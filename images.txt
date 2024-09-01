@@ -1,5 +1,4 @@
 nginx
 #支持私库
-pytorch/manylinuxaarch64-builder:cuda12.4-c49768f8656d3c68143a4eac0ec6ffb858fe52e6
-nvidia/cuda:11.3.1-devel-ubuntu18.04
+nvidia/cuda:11.8.0-cudnn8-devel-ubuntu20.04
 
