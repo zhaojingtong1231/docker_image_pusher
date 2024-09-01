@@ -1,4 +1,3 @@
-nginx
-#支持私库
-nvidia/cuda:11.8.0-cudnn8-devel-ubuntu20.04
 
+
+sha256:13cec23f793751be1ce45347db24f43f9001022ad5f07755965deb3260a00167
